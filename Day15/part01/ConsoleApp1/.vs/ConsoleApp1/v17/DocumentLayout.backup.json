@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day15\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F19406-E32B-4104-A2BC-B4CA9AE2517A}|ConsoleApp1\\ConsoleApp1.csproj|d:\\tob\\net depi\\depi-.net-tasks\\day15\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F19406-E32B-4104-A2BC-B4CA9AE2517A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F19406-E32B-4104-A2BC-B4CA9AE2517A}|ConsoleApp1\\ConsoleApp1.csproj|d:\\tob\\net depi\\depi-.net-tasks\\day15\\consoleapp1\\consoleapp1\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F19406-E32B-4104-A2BC-B4CA9AE2517A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F19406-E32B-4104-A2BC-B4CA9AE2517A}|ConsoleApp1\\ConsoleApp1.csproj|d:\\tob\\net depi\\depi-.net-tasks\\day15\\consoleapp1\\consoleapp1\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F19406-E32B-4104-A2BC-B4CA9AE2517A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F19406-E32B-4104-A2BC-B4CA9AE2517A}|ConsoleApp1\\ConsoleApp1.csproj|d:\\tob\\net depi\\depi-.net-tasks\\day15\\consoleapp1\\consoleapp1\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F19406-E32B-4104-A2BC-B4CA9AE2517A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F19406-E32B-4104-A2BC-B4CA9AE2517A}|ConsoleApp1\\ConsoleApp1.csproj|d:\\tob\\net depi\\depi-.net-tasks\\day15\\consoleapp1\\consoleapp1\\iwalkable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F19406-E32B-4104-A2BC-B4CA9AE2517A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\iwalkable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F19406-E32B-4104-A2BC-B4CA9AE2517A}|ConsoleApp1\\ConsoleApp1.csproj|d:\\tob\\net depi\\depi-.net-tasks\\day15\\consoleapp1\\consoleapp1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F19406-E32B-4104-A2BC-B4CA9AE2517A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F19406-E32B-4104-A2BC-B4CA9AE2517A}|ConsoleApp1\\ConsoleApp1.csproj|d:\\tob\\net depi\\depi-.net-tasks\\day15\\consoleapp1\\consoleapp1\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F19406-E32B-4104-A2BC-B4CA9AE2517A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F19406-E32B-4104-A2BC-B4CA9AE2517A}|ConsoleApp1\\ConsoleApp1.csproj|d:\\tob\\net depi\\depi-.net-tasks\\day15\\consoleapp1\\consoleapp1\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F19406-E32B-4104-A2BC-B4CA9AE2517A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F19406-E32B-4104-A2BC-B4CA9AE2517A}|ConsoleApp1\\ConsoleApp1.csproj|d:\\tob\\net depi\\depi-.net-tasks\\day15\\consoleapp1\\consoleapp1\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F19406-E32B-4104-A2BC-B4CA9AE2517A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F19406-E32B-4104-A2BC-B4CA9AE2517A}|ConsoleApp1\\ConsoleApp1.csproj|d:\\tob\\net depi\\depi-.net-tasks\\day15\\consoleapp1\\consoleapp1\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F19406-E32B-4104-A2BC-B4CA9AE2517A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F19406-E32B-4104-A2BC-B4CA9AE2517A}|ConsoleApp1\\ConsoleApp1.csproj|d:\\tob\\net depi\\depi-.net-tasks\\day15\\consoleapp1\\consoleapp1\\bike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F19406-E32B-4104-A2BC-B4CA9AE2517A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\bike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F19406-E32B-4104-A2BC-B4CA9AE2517A}|ConsoleApp1\\ConsoleApp1.csproj|d:\\tob\\net depi\\depi-.net-tasks\\day15\\consoleapp1\\consoleapp1\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F19406-E32B-4104-A2BC-B4CA9AE2517A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F19406-E32B-4104-A2BC-B4CA9AE2517A}|ConsoleApp1\\ConsoleApp1.csproj|d:\\tob\\net depi\\depi-.net-tasks\\day15\\consoleapp1\\consoleapp1\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F19406-E32B-4104-A2BC-B4CA9AE2517A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day15\\ConsoleApp1\\ConsoleApp1\\Book.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Book.cs",
+              "ToolTip": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day15\\ConsoleApp1\\ConsoleApp1\\Book.cs",
+              "RelativeToolTip": "ConsoleApp1\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T13:13:35.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day15\\ConsoleApp1\\ConsoleApp1\\Account.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Account.cs",
+              "ToolTip": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day15\\ConsoleApp1\\ConsoleApp1\\Account.cs",
+              "RelativeToolTip": "ConsoleApp1\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T13:13:17.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Robot.cs",
+              "DocumentMoniker": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day15\\ConsoleApp1\\ConsoleApp1\\Robot.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Robot.cs",
+              "ToolTip": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day15\\ConsoleApp1\\ConsoleApp1\\Robot.cs",
+              "RelativeToolTip": "ConsoleApp1\\Robot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T13:12:56.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IWalkable.cs",
+              "DocumentMoniker": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day15\\ConsoleApp1\\ConsoleApp1\\IWalkable.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\IWalkable.cs",
+              "ToolTip": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day15\\ConsoleApp1\\ConsoleApp1\\IWalkable.cs",
+              "RelativeToolTip": "ConsoleApp1\\IWalkable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T13:12:42.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day15\\ConsoleApp1\\ConsoleApp1\\Student.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Student.cs",
+              "ToolTip": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day15\\ConsoleApp1\\ConsoleApp1\\Student.cs",
+              "RelativeToolTip": "ConsoleApp1\\Student.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T13:12:21.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day15\\ConsoleApp1\\ConsoleApp1\\Product.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Product.cs",
+              "ToolTip": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day15\\ConsoleApp1\\ConsoleApp1\\Product.cs",
+              "RelativeToolTip": "ConsoleApp1\\Product.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA7wBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T13:11:58.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day15\\ConsoleApp1\\ConsoleApp1\\Circle.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Circle.cs",
+              "ToolTip": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day15\\ConsoleApp1\\ConsoleApp1\\Circle.cs",
+              "RelativeToolTip": "ConsoleApp1\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T13:11:42.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day15\\ConsoleApp1\\ConsoleApp1\\Rectangle.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Rectangle.cs",
+              "ToolTip": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day15\\ConsoleApp1\\ConsoleApp1\\Rectangle.cs",
+              "RelativeToolTip": "ConsoleApp1\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T13:11:27.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day15\\ConsoleApp1\\ConsoleApp1\\Shape.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Shape.cs",
+              "ToolTip": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day15\\ConsoleApp1\\ConsoleApp1\\Shape.cs",
+              "RelativeToolTip": "ConsoleApp1\\Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T13:11:03.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Bike.cs",
+              "DocumentMoniker": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day15\\ConsoleApp1\\ConsoleApp1\\Bike.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Bike.cs",
+              "ToolTip": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day15\\ConsoleApp1\\ConsoleApp1\\Bike.cs",
+              "RelativeToolTip": "ConsoleApp1\\Bike.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T13:10:44.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day15\\ConsoleApp1\\ConsoleApp1\\Car.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Car.cs",
+              "ToolTip": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day15\\ConsoleApp1\\ConsoleApp1\\Car.cs",
+              "RelativeToolTip": "ConsoleApp1\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T13:10:13.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IVehicle.cs",
+              "DocumentMoniker": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day15\\ConsoleApp1\\ConsoleApp1\\IVehicle.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\IVehicle.cs",
+              "ToolTip": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day15\\ConsoleApp1\\ConsoleApp1\\IVehicle.cs",
+              "RelativeToolTip": "ConsoleApp1\\IVehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T13:10:03.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day15\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day15\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T13:07:22.512Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
