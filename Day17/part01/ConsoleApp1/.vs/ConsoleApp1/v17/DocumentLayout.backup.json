@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day17\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDDCF68-0619-4D44-9DEA-F4DEED086743}|ConsoleApp1\\ConsoleApp1.csproj|d:\\tob\\net depi\\depi-.net-tasks\\day17\\consoleapp1\\consoleapp1\\generictransformer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CDDCF68-0619-4D44-9DEA-F4DEED086743}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\generictransformer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDDCF68-0619-4D44-9DEA-F4DEED086743}|ConsoleApp1\\ConsoleApp1.csproj|d:\\tob\\net depi\\depi-.net-tasks\\day17\\consoleapp1\\consoleapp1\\mathoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CDDCF68-0619-4D44-9DEA-F4DEED086743}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\mathoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDDCF68-0619-4D44-9DEA-F4DEED086743}|ConsoleApp1\\ConsoleApp1.csproj|d:\\tob\\net depi\\depi-.net-tasks\\day17\\consoleapp1\\consoleapp1\\stringtransformer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CDDCF68-0619-4D44-9DEA-F4DEED086743}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\stringtransformer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDDCF68-0619-4D44-9DEA-F4DEED086743}|ConsoleApp1\\ConsoleApp1.csproj|d:\\tob\\net depi\\depi-.net-tasks\\day17\\consoleapp1\\consoleapp1\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CDDCF68-0619-4D44-9DEA-F4DEED086743}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDDCF68-0619-4D44-9DEA-F4DEED086743}|ConsoleApp1\\ConsoleApp1.csproj|d:\\tob\\net depi\\depi-.net-tasks\\day17\\consoleapp1\\consoleapp1\\sortingtwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CDDCF68-0619-4D44-9DEA-F4DEED086743}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\sortingtwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDDCF68-0619-4D44-9DEA-F4DEED086743}|ConsoleApp1\\ConsoleApp1.csproj|d:\\tob\\net depi\\depi-.net-tasks\\day17\\consoleapp1\\consoleapp1\\sortingalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CDDCF68-0619-4D44-9DEA-F4DEED086743}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\sortingalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDDCF68-0619-4D44-9DEA-F4DEED086743}|ConsoleApp1\\ConsoleApp1.csproj|d:\\tob\\net depi\\depi-.net-tasks\\day17\\consoleapp1\\consoleapp1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CDDCF68-0619-4D44-9DEA-F4DEED086743}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDDCF68-0619-4D44-9DEA-F4DEED086743}|ConsoleApp1\\ConsoleApp1.csproj|d:\\tob\\net depi\\depi-.net-tasks\\day17\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CDDCF68-0619-4D44-9DEA-F4DEED086743}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GenericTransformer.cs",
+              "DocumentMoniker": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day17\\ConsoleApp1\\ConsoleApp1\\GenericTransformer.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\GenericTransformer.cs",
+              "ToolTip": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day17\\ConsoleApp1\\ConsoleApp1\\GenericTransformer.cs",
+              "RelativeToolTip": "ConsoleApp1\\GenericTransformer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T15:31:42.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MathOperations.cs",
+              "DocumentMoniker": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day17\\ConsoleApp1\\ConsoleApp1\\MathOperations.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\MathOperations.cs",
+              "ToolTip": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day17\\ConsoleApp1\\ConsoleApp1\\MathOperations.cs",
+              "RelativeToolTip": "ConsoleApp1\\MathOperations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T15:31:29.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StringTransformer.cs",
+              "DocumentMoniker": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day17\\ConsoleApp1\\ConsoleApp1\\StringTransformer.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\StringTransformer.cs",
+              "ToolTip": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day17\\ConsoleApp1\\ConsoleApp1\\StringTransformer.cs",
+              "RelativeToolTip": "ConsoleApp1\\StringTransformer.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T15:31:16.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Utility.cs",
+              "DocumentMoniker": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day17\\ConsoleApp1\\ConsoleApp1\\Utility.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Utility.cs",
+              "ToolTip": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day17\\ConsoleApp1\\ConsoleApp1\\Utility.cs",
+              "RelativeToolTip": "ConsoleApp1\\Utility.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T15:30:58.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SortingTwo.cs",
+              "DocumentMoniker": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day17\\ConsoleApp1\\ConsoleApp1\\SortingTwo.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\SortingTwo.cs",
+              "ToolTip": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day17\\ConsoleApp1\\ConsoleApp1\\SortingTwo.cs",
+              "RelativeToolTip": "ConsoleApp1\\SortingTwo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T15:30:38.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SortingAlgorithm.cs",
+              "DocumentMoniker": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day17\\ConsoleApp1\\ConsoleApp1\\SortingAlgorithm.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\SortingAlgorithm.cs",
+              "ToolTip": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day17\\ConsoleApp1\\ConsoleApp1\\SortingAlgorithm.cs",
+              "RelativeToolTip": "ConsoleApp1\\SortingAlgorithm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T15:30:26.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day17\\ConsoleApp1\\ConsoleApp1\\Employee.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Employee.cs",
+              "ToolTip": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day17\\ConsoleApp1\\ConsoleApp1\\Employee.cs",
+              "RelativeToolTip": "ConsoleApp1\\Employee.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T15:30:14.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day17\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day17\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAuwHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T15:28:37.201Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
