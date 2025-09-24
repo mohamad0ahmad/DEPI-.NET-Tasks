@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day20\\Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9529EAD3-FBAE-4FBD-9D53-7D0BE6024089}|Project\\Project.csproj|d:\\tob\\net depi\\depi-.net-tasks\\day20\\project\\project\\migrations\\20250924205110_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9529EAD3-FBAE-4FBD-9D53-7D0BE6024089}|Project\\Project.csproj|solutionrelative:project\\migrations\\20250924205110_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9529EAD3-FBAE-4FBD-9D53-7D0BE6024089}|Project\\Project.csproj|d:\\tob\\net depi\\depi-.net-tasks\\day20\\project\\project\\dbcontext\\projectdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9529EAD3-FBAE-4FBD-9D53-7D0BE6024089}|Project\\Project.csproj|solutionrelative:project\\dbcontext\\projectdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9529EAD3-FBAE-4FBD-9D53-7D0BE6024089}|Project\\Project.csproj|d:\\tob\\net depi\\depi-.net-tasks\\day20\\project\\project\\configuration_classes\\projectconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9529EAD3-FBAE-4FBD-9D53-7D0BE6024089}|Project\\Project.csproj|solutionrelative:project\\configuration_classes\\projectconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9529EAD3-FBAE-4FBD-9D53-7D0BE6024089}|Project\\Project.csproj|d:\\tob\\net depi\\depi-.net-tasks\\day20\\project\\project\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9529EAD3-FBAE-4FBD-9D53-7D0BE6024089}|Project\\Project.csproj|solutionrelative:project\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9529EAD3-FBAE-4FBD-9D53-7D0BE6024089}|Project\\Project.csproj|d:\\tob\\net depi\\depi-.net-tasks\\day20\\project\\project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9529EAD3-FBAE-4FBD-9D53-7D0BE6024089}|Project\\Project.csproj|solutionrelative:project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250924205110_InitialCreate.cs",
+              "DocumentMoniker": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day20\\Project\\Project\\Migrations\\20250924205110_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Project\\Migrations\\20250924205110_InitialCreate.cs",
+              "ToolTip": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day20\\Project\\Project\\Migrations\\20250924205110_InitialCreate.cs",
+              "RelativeToolTip": "Project\\Migrations\\20250924205110_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T20:51:11.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProjectDbContext.cs",
+              "DocumentMoniker": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day20\\Project\\Project\\DbContext\\ProjectDbContext.cs",
+              "RelativeDocumentMoniker": "Project\\DbContext\\ProjectDbContext.cs",
+              "ToolTip": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day20\\Project\\Project\\DbContext\\ProjectDbContext.cs",
+              "RelativeToolTip": "Project\\DbContext\\ProjectDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T20:33:47.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProjectConfigurations.cs",
+              "DocumentMoniker": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day20\\Project\\Project\\Configuration_Classes\\ProjectConfigurations.cs",
+              "RelativeDocumentMoniker": "Project\\Configuration_Classes\\ProjectConfigurations.cs",
+              "ToolTip": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day20\\Project\\Project\\Configuration_Classes\\ProjectConfigurations.cs",
+              "RelativeToolTip": "Project\\Configuration_Classes\\ProjectConfigurations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T20:24:22.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Project.cs",
+              "DocumentMoniker": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day20\\Project\\Project\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "Project\\Models\\Project.cs",
+              "ToolTip": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day20\\Project\\Project\\Models\\Project.cs",
+              "RelativeToolTip": "Project\\Models\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T20:23:25.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day20\\Project\\Project\\Program.cs",
+              "RelativeDocumentMoniker": "Project\\Program.cs",
+              "ToolTip": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day20\\Project\\Project\\Program.cs",
+              "RelativeToolTip": "Project\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T20:14:51.712Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
