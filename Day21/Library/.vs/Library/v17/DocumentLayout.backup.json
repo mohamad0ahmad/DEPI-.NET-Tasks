@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day21\\Library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95963516-FA8A-49A4-9C7C-90A55FE91D38}|Library\\Library.csproj|d:\\tob\\net depi\\depi-.net-tasks\\day21\\library\\library\\migrations\\20251004220459_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95963516-FA8A-49A4-9C7C-90A55FE91D38}|Library\\Library.csproj|solutionrelative:library\\migrations\\20251004220459_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95963516-FA8A-49A4-9C7C-90A55FE91D38}|Library\\Library.csproj|d:\\tob\\net depi\\depi-.net-tasks\\day21\\library\\library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95963516-FA8A-49A4-9C7C-90A55FE91D38}|Library\\Library.csproj|solutionrelative:library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95963516-FA8A-49A4-9C7C-90A55FE91D38}|Library\\Library.csproj|d:\\tob\\net depi\\depi-.net-tasks\\day21\\library\\library\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95963516-FA8A-49A4-9C7C-90A55FE91D38}|Library\\Library.csproj|solutionrelative:library\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95963516-FA8A-49A4-9C7C-90A55FE91D38}|Library\\Library.csproj|d:\\tob\\net depi\\depi-.net-tasks\\day21\\library\\library\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95963516-FA8A-49A4-9C7C-90A55FE91D38}|Library\\Library.csproj|solutionrelative:library\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95963516-FA8A-49A4-9C7C-90A55FE91D38}|Library\\Library.csproj|d:\\tob\\net depi\\depi-.net-tasks\\day21\\library\\library\\models\\borrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95963516-FA8A-49A4-9C7C-90A55FE91D38}|Library\\Library.csproj|solutionrelative:library\\models\\borrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95963516-FA8A-49A4-9C7C-90A55FE91D38}|Library\\Library.csproj|d:\\tob\\net depi\\depi-.net-tasks\\day21\\library\\library\\models\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95963516-FA8A-49A4-9C7C-90A55FE91D38}|Library\\Library.csproj|solutionrelative:library\\models\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95963516-FA8A-49A4-9C7C-90A55FE91D38}|Library\\Library.csproj|d:\\tob\\net depi\\depi-.net-tasks\\day21\\library\\library\\configurationclasses\\authorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95963516-FA8A-49A4-9C7C-90A55FE91D38}|Library\\Library.csproj|solutionrelative:library\\configurationclasses\\authorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95963516-FA8A-49A4-9C7C-90A55FE91D38}|Library\\Library.csproj|d:\\tob\\net depi\\depi-.net-tasks\\day21\\library\\library\\dbcontext\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95963516-FA8A-49A4-9C7C-90A55FE91D38}|Library\\Library.csproj|solutionrelative:library\\dbcontext\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20251004220459_InitialCreate.cs",
+              "DocumentMoniker": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day21\\Library\\Library\\Migrations\\20251004220459_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Library\\Migrations\\20251004220459_InitialCreate.cs",
+              "ToolTip": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day21\\Library\\Library\\Migrations\\20251004220459_InitialCreate.cs",
+              "RelativeToolTip": "Library\\Migrations\\20251004220459_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T22:05:00.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LibraryDbContext.cs",
+              "DocumentMoniker": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day21\\Library\\Library\\DbContext\\LibraryDbContext.cs",
+              "RelativeDocumentMoniker": "Library\\DbContext\\LibraryDbContext.cs",
+              "ToolTip": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day21\\Library\\Library\\DbContext\\LibraryDbContext.cs",
+              "RelativeToolTip": "Library\\DbContext\\LibraryDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T22:02:58.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthorConfiguration.cs",
+              "DocumentMoniker": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day21\\Library\\Library\\ConfigurationClasses\\AuthorConfiguration.cs",
+              "RelativeDocumentMoniker": "Library\\ConfigurationClasses\\AuthorConfiguration.cs",
+              "ToolTip": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day21\\Library\\Library\\ConfigurationClasses\\AuthorConfiguration.cs",
+              "RelativeToolTip": "Library\\ConfigurationClasses\\AuthorConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T22:01:39.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Loan.cs",
+              "DocumentMoniker": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day21\\Library\\Library\\Models\\Loan.cs",
+              "RelativeDocumentMoniker": "Library\\Models\\Loan.cs",
+              "ToolTip": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day21\\Library\\Library\\Models\\Loan.cs",
+              "RelativeToolTip": "Library\\Models\\Loan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T22:01:07.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Borrower.cs",
+              "DocumentMoniker": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day21\\Library\\Library\\Models\\Borrower.cs",
+              "RelativeDocumentMoniker": "Library\\Models\\Borrower.cs",
+              "ToolTip": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day21\\Library\\Library\\Models\\Borrower.cs",
+              "RelativeToolTip": "Library\\Models\\Borrower.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T22:00:46.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Author.cs",
+              "DocumentMoniker": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day21\\Library\\Library\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "Library\\Models\\Author.cs",
+              "ToolTip": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day21\\Library\\Library\\Models\\Author.cs",
+              "RelativeToolTip": "Library\\Models\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T22:00:21.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day21\\Library\\Library\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Library\\Models\\Book.cs",
+              "ToolTip": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day21\\Library\\Library\\Models\\Book.cs",
+              "RelativeToolTip": "Library\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T21:59:55.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day21\\Library\\Library\\Program.cs",
+              "RelativeDocumentMoniker": "Library\\Program.cs",
+              "ToolTip": "D:\\toB\\NET depi\\DEPI-.NET-Tasks\\Day21\\Library\\Library\\Program.cs",
+              "RelativeToolTip": "Library\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T21:59:36.77Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
