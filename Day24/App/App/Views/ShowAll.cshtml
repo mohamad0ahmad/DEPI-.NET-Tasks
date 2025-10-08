@@ -1,0 +1,22 @@
+﻿@model IEnumerable<App.Models.Student>
+
+<h2>All Students</h2>
+<table class="table">
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Age</th>
+        <th>Department</th>
+        <th>Actions</th>
+    </tr>
+    @foreach (var s in Model)
+    {
+        <tr>
+            <td>@s.Id</td>
+            <td>@s.Name</td>
+            <td>@s.Age</td>
+            <td>@s.Department?.Name</td>
+            <td><a href="/Student/ShowDetails?id=@s.Id">Details</a></td>
+        </tr>
+    }
+</table>

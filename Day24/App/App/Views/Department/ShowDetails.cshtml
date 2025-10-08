@@ -1,0 +1,20 @@
+﻿@model App.ViewModels.DepartmentViewModel
+
+<h2>Department Details</h2>
+<p><strong>Name:</strong> @Model.DepartmentName</p>
+<p><strong>State:</strong> @Model.DepartmentState</p>
+
+<h3>Students older than 25</h3>
+@if (Model.StudentNamesOver25.Any())
+{
+    <select class="form-control">
+        @foreach (var s in Model.StudentNamesOver25)
+        {
+            <option>@s</option>
+        }
+    </select>
+}
+else
+{
+    <p>No students over 25.</p>
+}

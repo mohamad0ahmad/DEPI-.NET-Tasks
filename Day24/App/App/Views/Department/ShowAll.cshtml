@@ -1,0 +1,24 @@
+﻿@model IEnumerable<App.Models.Department>
+
+<h2>All Departments</h2>
+<a href="/Department/Add" class="btn btn-primary">Add Department</a>
+
+<table class="table">
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Manager</th>
+        <th>Students Count</th>
+        <th>Actions</th>
+    </tr>
+    @foreach (var d in Model)
+    {
+        <tr>
+            <td>@d.Id</td>
+            <td>@d.Name</td>
+            <td>@d.MgrName</td>
+            <td>@(d.Students?.Count ?? 0)</td>
+            <td><a href="/Department/ShowDetails/@d.Id">Details</a></td>
+        </tr>
+    }
+</table>
