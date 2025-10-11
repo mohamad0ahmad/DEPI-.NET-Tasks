@@ -1,0 +1,23 @@
+﻿@model MVC_School.Models.Student
+
+<h1>Edit Student</h1>
+
+<form method="post">
+    <input type="hidden" name="Id" value="@Model.Id" />
+    <div>
+        <label>Name</label>
+        <input type="text" name="Name" value="@Model.Name" class="form-control" />
+    </div>
+    <div>
+        <label>Age</label>
+        <input type="number" name="Age" value="@Model.Age" class="form-control" />
+    </div>
+    <div>
+        <label>Department</label>
+        <select name="DepartmentId" class="form-control" asp-for="DepartmentId" asp-items="@(new SelectList(ViewData["Departments"] as List<MVC_School.Models.Department>, "Id", "Name", Model.DepartmentId))">
+</select>
+
+
+    </div>
+    <button type="submit" class="btn btn-success">Save</button>
+</form>

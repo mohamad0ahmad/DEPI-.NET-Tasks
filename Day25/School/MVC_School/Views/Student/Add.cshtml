@@ -1,0 +1,24 @@
+﻿@model MVC_School.Models.Student
+
+<h1>Add Student</h1>
+
+<form method="post">
+    <div>
+        <label>Name</label>
+        <input type="text" name="Name" class="form-control" />
+    </div>
+    <div>
+        <label>Age</label>
+        <input type="number" name="Age" class="form-control" />
+    </div>
+    <div>
+        <label>Department</label>
+        <select name="DepartmentId" class="form-control">
+            @foreach (var department in ViewData["Departments"] as List<MVC_School.Models.Department>)
+            {
+                <option value="@department.Id">@department.Name</option>
+            }
+        </select>
+    </div>
+    <button type="submit" class="btn btn-success">Save</button>
+</form>

@@ -1,0 +1,8 @@
+﻿@model MVC_School.Models.Student
+
+<h1>Student Details</h1>
+<h3>Name: @Model.Name</h3>
+<p>Age: @Model.Age</p>
+<p>Department: @Model.Department.Name</p>
+
+<a href="@Url.Action("ShowAll", "Student")" class="btn btn-primary">Back to List</a>

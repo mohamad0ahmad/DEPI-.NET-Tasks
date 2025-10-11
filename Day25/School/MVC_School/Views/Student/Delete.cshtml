@@ -1,0 +1,10 @@
+﻿@model MVC_School.Models.Student
+
+<h1>Delete Student</h1>
+<h3>Are you sure you want to delete @Model.Name?</h3>
+
+<form method="post" action="@Url.Action("ConfirmDelete", "Student", new { id = Model.Id })">
+    <button type="submit" class="btn btn-danger">Delete</button>
+</form>
+
+<a href="@Url.Action("ShowAll", "Student")" class="btn btn-primary">Cancel</a>

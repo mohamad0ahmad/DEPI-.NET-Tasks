@@ -1,0 +1,15 @@
+﻿@model MVC_School.Models.Department
+
+<h1>Department Details</h1>
+<h3>@Model.Name</h3>
+<p>Manager: @Model.MgrName</p>
+
+<h4>Students</h4>
+<ul>
+    @foreach (var student in Model.Students)
+    {
+        <li>@student.Name</li>
+    }
+</ul>
+
+<a href="@Url.Action("ShowAll", "Department")" class="btn btn-primary">Back to List</a>

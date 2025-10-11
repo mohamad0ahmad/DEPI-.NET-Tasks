@@ -1,0 +1,49 @@
+﻿@model List<MVC_School.Models.Student>
+
+<h1>All Students</h1>
+<form method="get">
+    <input type="text" name="searchTerm" placeholder="Search by name" />
+    <select name="departmentId">
+        <option value="0">All Departments</option>
+
+        @if (ViewData["Departments"] != null)
+        {
+            var departments = ViewData["Departments"] as List<MVC_School.Models.Department>;
+            foreach (var department in departments)
+            {
+                <option value="@department.Id">@department.Name</option>
+            }
+        }
+        else
+        {
+            <option disabled>No departments available</option>
+        }
+    </select>
+    <button type="submit">Search</button>
+</form>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Age</th>
+            <th>Department</th>
+            <th>Details</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var student in Model)
+        {
+            <tr>
+                <td>@student.Name</td>
+                <td>@student.Age</td>
+                <td>@student.Department.Name</td>
+                <td>
+                    <a href="@Url.Action("ShowDetails", "Student", new { id = student.Id })">Details</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a href="@Url.Action("Add", "Student")" class="btn btn-success">Add New Student</a>
